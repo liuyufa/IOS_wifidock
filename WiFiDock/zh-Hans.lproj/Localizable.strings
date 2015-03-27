@@ -1,0 +1,191 @@
+/* 
+  Localizable.strings
+  WiFiDock
+
+  Created by apple on 15-1-13.
+  Copyright (c) 2015年 cn.hualu.WiFiDock. All rights reserved.
+*/
+
+"Music"   = "音乐";
+"Video"   = "视频";
+"Image"   = "图片";
+"Document"= "文档";
+"Manage"  = "管理";
+"Setting" = "设置";
+"Backups" = "备份";
+"Status"  = "状态";
+"WiFiDock"= "云盘坞";
+"TF"      = "TF卡";
+"U"       = "U盘";
+"Local"   = "本地";
+"Copy"    = "复制";
+"Paste"   = "粘贴";
+"Delete"  = "删除";
+"Cut"     = "剪切";
+"More"    = "更多";
+"All"     = "全选";
+"Camera"  = "相机";
+"Router"  = "路由功能";
+"Setup Wizard"  = "设置向导";
+"NetWork Parameter" = "网络参数";
+"Base Setting" = "基本设置";
+"Ap Scan" = "热点扫描";
+"Please input ssid" = "请输入SSID";
+"Please input key" = "请输入密码";
+"Save" = "保存";
+"Restore" = "还原";
+"SSID or KEY is Empty" = "SSID和KEY不能为空";
+"Password length is 8 to 63,Please re-enter" = "KEY为8到63位，请重新输入";
+"Loading ..." = "加载中...";
+"No device connected" = "请连接设备";
+"Save success" = "保存成功";
+"Save failed,Please Check the equipment" = "保存失败，请检查wifidock";
+"Thank you for using WiFi Dock."="感谢您使用WiFi Dock。如果您对网络知识或路由器产品不太熟悉，您可按照提示轻松地完成设置。如果您是一位专家，您也可以直接到菜单项中选择您需要修改的网络参数进行设置。本向导可帮助您快速设置路由器的工作模式及基本参数。";
+"PPPoE"="拨号网络(PPPoE)";
+"Dynamic"="以太网宽带(动态IP)";
+"Static"="以太网宽带(静态IP)";
+"NPPPoE"="拨号网络";
+"NDynamic"="动态IP";
+"NStatic"="静态IP";
+"3G"="3G拨号上网";
+
+"Next"="下一步";
+"PPPoELine"="您申请拨号服务时，网络服务商将提供给您上网账号及口令，请对应填入下框。如您遗忘或不太清楚，请咨询您的网络服务商。";
+"StaticLine"="您申请以太网宽带服务，并具有固定IP地址时，网络服务商将提供给您一些基本的网络参数，请填入下框。如您遗忘或不太清楚，请咨询您的网络服务商。";
+"IspLine"="根据你所在的地区和移动ISP，请对入填写下列框中。如您遗忘或不太清楚，请咨询您的网络服务商。";
+"EndLine"="恭喜您！您已经顺利完成上网所需的最基本网络参数的设置，重新启动路由器后就能够正常上网啦。如果需要做进一步设置，请点击其它菜单。请单击“保存”保存参数并结束快速设置。";
+"Account"="上网账号:";
+"Password"="上网口令:";
+"Please input account"="请输入上网账号";
+"Please input password"="请输入上网口令";
+"back"="上一步";
+"next"="下一步";
+"Password is Empty"="密码为空，请重新输入";
+"Password account is Empty"="账号或口令为空，请重新输入";
+"ipadr"="IP地址";
+"subnet"="子网掩码";
+"gateway"="网关";
+"primary"="主域名";
+"backup"="备域名";
+"ip empty"="IP地址为空，请重新输入";
+"subnet empty"="子网掩码为空，请重新输入";
+"gateway empty"="网关为空，请重新输入";
+"primary empty"="主域名为空，请重新输入";
+"backup empty"="密码为空，请重新输入";
+"ip error"="IP地址输入有误，请重新输入";
+"ip crash error"="IP地址处于同一网段，请重新输入";
+"subnet error"="子网掩码输入有误，请重新输入";
+"gateway error"="网关输入有误，请重新输入";
+"primary error"="主域名输入有误，请重新输入";
+"backup error"="备域名输入有误，请重新输入";
+"adr type"="地址类型";
+"area"="地区";
+"isp"="移动ISP";
+"China"="中国";
+"China mobile"="中国移动";
+"China unicom"="中国联通";
+"China telecom"="中国电信";
+
+"Connecting,please wait..."="热点连接中，请稍后…";
+"is conneted,disconnet or not"=" 已经连接，是否断开";
+"LastPageLine"="恭喜您！您已经顺利完成上网所需的最基本网络参数的设置，重新启动路由器后就能够正常上网啦。如果需要做进一步设置，请点击其它菜单。";
+
+"New Directory" = "新建";
+"Uploaded Error" = "上传失败";
+"Uploaded Successfully" = "上传成功";
+"Loading......" = "正在上传，请稍等......";
+"Open Camera Faild" = "打开相机失败";
+"Saved Video Successfully" = "视频保存成功";
+"Saved Video Error:" = "保存视频过程中发生错误，错误信息:";
+"Invalid Name" = "无效的名字";
+"The Directory has the same Folder,please rename again" = "该目录中已经存在该文件夹，请重新命名";
+"OK" = "加载完毕";
+"rename" = "重命名";
+
+"Localtion Image" = "本地图片";
+"Localtion Video" = "本地视频";
+"Modify the Name" = "修改名称";
+"Done" = "确定";
+"Cancel" = "取消";
+"Unknow" = "时间未知";
+"No files Exist" = "文件不存在";
+"Warming" = "温馨提示";
+"Access restrictions,Modified failured" = "权限不够，修改名称失败";
+"Access restrictions,Deleted failured" = "权限所致，无法删除";
+"Backuping! please waiting......"= "正在备份中，请稍等";
+"Backup Successfully" = "备份成功";
+"No authorized to access photo data" = "没有权限访问相册";
+
+"Backuping! you can checked the current status from the status View" = "备份中，请在状态列表中查看";
+"Share" = "分享";
+"Address Book" = "通讯录";
+"Go" = "立即体验";
+"Album" = "相册";
+"Back" = "返回";
+"Recover" = "恢复";
+"Recovering" = "恢复中.....";
+"Loading Over" = "加载完毕";
+"Device Configuration" = "设备配置";
+"Upgrade" = "联网升级";
+"About" = "关于";
+"Checking on......" = "正在拼命检查中.....";
+"No new Version" = "没有新版本";
+"Customer Service Phone"= "客服电话";
+"Score support" = "评分支持";
+"Recover Successfully" = "还原成功";
+"Please Selected the path" = "选择路径";
+"Deleted Successfully" = "删除成功";
+"Waiting for Copy a file" = "一个文件等待粘贴";
+"Waiting for Copy files"  = "多个个文件等待粘贴";
+"Please Select the file"  = "请选择文件";
+"Have selected a files"   = "已经选中一个文件";
+"Have selected more files"= "已经选中多个文件";
+"Paste Successfully" = "粘贴成功";
+"Loading data......" = "加载数据中......" ;
+"Loading NetWork......" = "加载网络中......";
+"Failed to connect wifi_dock. Maybe you need to check the wifi setting?" = "连接dock失败，是否已经连接上WiFi?如果没有连接WiFi，你只能访问本地文件";
+"Connect wifi_dock is successful. But did not find any storage device, you can only access local files."
+= "已经成功连上dock，但是没有发现存储设备，只能访问本地文件";
+
+"The Directory has the same file" = "该目录存在相同文件";
+"Are you sure delete the file?" = "确定要删除这个文件";
+"Are you sure delete the %d file?" = "确定删除这%d个文件？";
+"Have selected one file" = "已经选中一个文件";
+"Have selected %d files" = "已经选中了%d个文件";
+"Are you sure to cancel?" = "确定取消此操作？";
+"Add Members (%lu)" = "选中%lu个";
+"Backup/Address Book" = "备份/通讯录";
+"Backing up,please waiting......" = "正在备份中，请稍等......";
+"Already selected file,please check in the status list" = "已经选中文件，请在下状态列表中查看";
+"Wonderfull,Closely associated" = "无限精彩，如影随行,立即体验吧";
+"Abnormal netWork connnection" = "网络连接异常";
+"The Directory has the same file,Are you continue?" = "该目录存在相同文件，是否需要继续？";
+"deciphering" = "解密";
+"encrypt" = "加密";
+"Enter your passcode" = "请输入你的密码:";
+"Enter passcode" = "输入密码";
+"Enter a passcode" = "输入密码:";
+"Set Passcode" = "设置密码";
+"Re-enter your passcode" = "重新输入密码:";
+"Does not support folder encryption"= "不支持文件夹加密";
+"Encryption area" = "加密区";
+"Encryption is completed" = "加密完成";
+"Decryption area" = "解密区";
+"Create Successfully" = "创建目录成功！";
+"Album Backups Successfully" = "相册备份成功";
+"Copy Photos" = "相册备份";
+"total %d pages" = "总共 %d 张图片";
+"Encrypted backups?" = "是否加密备份?";
+"Type contact name" = "选择联系人";
+"No files existence in the contents，please choose again" = "所在目录中没有需要备份的文件。";
+"Does not support file encryption"="不支持文件夹加密";
+"Decryption failure" = "解密失败";
+"Wrong password" = "密码错误";
+"Decryption Successfully" = "解密成功";
+"The selected file contains folders, files of this type of files does not support encryption, please select again" = "所选中的文件中包含文件夹，此类文件不支持加密，请重新选择";
+"The selected file contains encrypted files, please select again" = "所选中的文件中包含已加密文件，请重新选择";
+"File exists, please rename" = "文件存在，请重新命名";
+
+
+
+
